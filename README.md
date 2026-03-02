@@ -24,13 +24,14 @@ Space Complexity: O(n)
 # How to Run
 javac ConvexHull.java
 java ConvexHull
-Example
 
-# Input:
+# Example
+
+Input:
 
 (0,0), (2,0), (2,2), (0,2), (1,1)
 
-# Output:
+Output:
 
 (0, 0)
 (2, 0)
