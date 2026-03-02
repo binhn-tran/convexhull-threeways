@@ -35,8 +35,12 @@ Input:
 Output:
 
 (0, 0)
+
 (2, 0)
+
 (2, 2)
+
 (0, 2)
+
 
 Duplicate and interior points are automatically removed.
